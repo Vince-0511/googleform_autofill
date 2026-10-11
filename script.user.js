@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Google Form Auto Filler (Starter)
-// @namespace    https://example.local/
+// @name         Google Form Auto Filler
+// @namespace    https://github.com/Vince-0511/googleform_autofill
 // @version      1.0
 // @description  Fill name, email, student ID, suggestion, feedback and pick the highest score on Google Forms
 // @match        https://docs.google.com/forms/*
